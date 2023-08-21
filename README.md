@@ -35,17 +35,14 @@ Lo scopo di questo repository GitHub è la condivisione e discussione delle solu
 | EDC-Manager | :red_circle: |
 
 ## Progetti
-> [!IMPORTANT]
-> Assicurati di aver effettuato il login sul [sito](http://tmancini.di.uniroma1.it) del professore prima di accedere ai link 
-
 > [!NOTE]
 > Contribuisci con eventuali tue proposte di soluzione o soluzioni ufficiali nelle apposite pagine di discussione
 
 | Nome | Discussione |
 |------|-------|
-| [Citta Verde](http://tmancini.di.uniroma1.it/show.php?doc=P.20220701.A.1.question) | :red_circle: |
-| [My Precious](http://tmancini.di.uniroma1.it/show.php?doc=P.20220909.A.1.question) | :red_circle: |
-| [CoLab](http://tmancini.di.uniroma1.it/show.php?doc=P.20220610.A.1.question) | :red_circle: |
+| [Citta Verde](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220701%20-%20Citt%C3%A0%20Verde) | :red_circle: |
+| [My Precious](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220909%20-%20My%20Precious) | :red_circle: |
+| [CoLab](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220610%20-%20CoLab) | :red_circle: |
 | [TravelPlan](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220608%20-%20TravelPlan) | :red_circle: |
 | [Stoxx](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20160519%20-%20Stoxx) | :red_circle: |
 | [smart2go](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20170606%20-%20smart2go) | :red_circle: |
