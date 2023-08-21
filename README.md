@@ -14,18 +14,18 @@ Lo scopo di questo repository GitHub è proporre e discutere insieme possibili s
 |------|-------|
 | VirgilioGo | :red_circle: |
 | Poolio | :red_circle: |
-| AllenaMondo | :red_circle: |
-| Slimmy | :red_circle: |
+| AllenaMondo | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/34) |
+| Slimmy | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/33) |
 | EasyToll | :red_circle: |
 | MyPrecious | [Discuti progetto](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/32) |
 | CoLab | [Discuti progetto](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/31) |
-| StayHealthy! | :red_circle: |
+| StayHealthy! | [Discuti Slimmy](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/33) |
 | RistoBook | :red_circle: |
 | SafeOnTheBeach | :red_circle: |
 | GreenCare | [Discuti progetto](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/27) |
 | TravelPlan | [Discuti progetto](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/30) |
-| Alimentary | :red_circle: |
-| Workouts | :red_circle: |
+| Alimentary | [Discuti Slimmy](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/33) |
+| Workouts | [Discuti AllenaMondo](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/34) |
 | iCare | :red_circle: |
 | Mall.com | :red_circle: |
 | House.com | :red_circle: |
