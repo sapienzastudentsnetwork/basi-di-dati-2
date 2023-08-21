@@ -14,10 +14,9 @@ Lo scopo di questo repository GitHub è la condivisione e discussione delle solu
 |------|-------|
 | VirgilioGo | :red_circle: |
 | Poolio | :red_circle: |
-| House.com | :red_circle: |
-| EasyToll | :red_circle: |
 | AllenaMondo | :red_circle: |
 | Slimmy | :red_circle: |
+| EasyToll | :red_circle: |
 | MyPrecious | :red_circle: |
 | CoLab | :red_circle: |
 | StayHealthy! | :red_circle: |
@@ -29,6 +28,7 @@ Lo scopo di questo repository GitHub è la condivisione e discussione delle solu
 | Workouts | :red_circle: |
 | iCare | :red_circle: |
 | Mall.com | :red_circle: |
+| House.com | :red_circle: |
 | ecoParks.it | :red_circle: |
 | myTunes | :red_circle: |
 | iHealth | :red_circle: |
@@ -40,9 +40,9 @@ Lo scopo di questo repository GitHub è la condivisione e discussione delle solu
 
 | Nome | Discussione |
 |------|-------|
-| [Citta Verde](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220701%20-%20Citt%C3%A0%20Verde) | :red_circle: |
-| [My Precious](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220909%20-%20My%20Precious) | :red_circle: |
-| [CoLab](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220610%20-%20CoLab) | :red_circle: |
-| [TravelPlan](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220608%20-%20TravelPlan) | :red_circle: |
-| [Stoxx](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20160519%20-%20Stoxx) | :red_circle: |
 | [smart2go](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20170606%20-%20smart2go) | :red_circle: |
+| [Stoxx](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20160519%20-%20Stoxx) | :red_circle: |
+| [TravelPlan](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220608%20-%20TravelPlan) | :red_circle: |
+| [CoLab](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220610%20-%20CoLab) | :red_circle: |
+| [My Precious](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220909%20-%20My%20Precious) | :red_circle: |
+| [Citta Verde](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220701%20-%20Citt%C3%A0%20Verde) | :red_circle: |
