@@ -4,7 +4,7 @@
 <div align="center">
 
 ## Introduzione
-Lo scopo di questo repository GitHub è la condivisione e discussione delle soluzioni di tracce d'esame e progetti forniti dai professori di Basi di Dati II durante l'anno accademico 2022-2023. In questo repository potrai dunque trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!
+Lo scopo di questo repository GitHub è proporre e discutere insieme possibili soluzioni o approcci risolutivi alle tracce d'esame e progetti, forniti dai professori di Basi di Dati II del canale A/L fino all'anno accademico 2022-2023 _(che è stato a canale unico; da qui l'interesse per anche gli studenti degli altri canali)_, per cui non sono disponibili delle soluzioni ufficiali. In questo repository potrai dunque trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!
 
 ## Esami
 > [!NOTE]
@@ -17,13 +17,13 @@ Lo scopo di questo repository GitHub è la condivisione e discussione delle solu
 | AllenaMondo | :red_circle: |
 | Slimmy | :red_circle: |
 | EasyToll | :red_circle: |
-| MyPrecious | :red_circle: |
-| CoLab | :red_circle: |
+| MyPrecious | [Discuti progetto](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/32) |
+| CoLab | [Discuti progetto](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/31) |
 | StayHealthy! | :red_circle: |
 | RistoBook | :red_circle: |
 | SafeOnTheBeach | :red_circle: |
-| GreenCare | :red_circle: |
-| TravelPlan | :red_circle: |
+| GreenCare | [Discuti progetto](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/27) |
+| TravelPlan | [Discuti progetto](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/30) |
 | Alimentary | :red_circle: |
 | Workouts | :red_circle: |
 | iCare | :red_circle: |
@@ -40,9 +40,9 @@ Lo scopo di questo repository GitHub è la condivisione e discussione delle solu
 
 | Nome | Discussione |
 |------|-------|
-| [smart2go](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20170606%20-%20smart2go) | :red_circle: |
-| [Stoxx](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20160519%20-%20Stoxx) | :red_circle: |
-| [TravelPlan](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220608%20-%20TravelPlan) | :red_circle: |
-| [CoLab](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220610%20-%20CoLab) | :red_circle: |
-| [My Precious](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220909%20-%20My%20Precious) | :red_circle: |
-| [Citta Verde](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220701%20-%20Citt%C3%A0%20Verde) | :red_circle: |
+| [smart2go](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20170606%20-%20smart2go) | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/28) |
+| [Stoxx](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20160519%20-%20Stoxx) | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/29) |
+| [TravelPlan](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220608%20-%20TravelPlan) | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/30) |
+| [CoLab](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220610%20-%20CoLab) | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/31) |
+| [My Precious](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220909%20-%20My%20Precious) | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/32) |
+| [Citta Verde](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220701%20-%20Citt%C3%A0%20Verde) | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/27) |
