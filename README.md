@@ -8,7 +8,7 @@ Lo scopo di questo repository GitHub è proporre e discutere insieme possibili s
 
 ## Esami
 > [!NOTE]
-> Per ogni esame contribuisci con una tua eventuale proposta di soluzione o soluzione ufficiale nell'apposita relativa pagina di discussione, farlo ti permetterà anche di ricevere eventuali feedback da altri studenti e studentesse in merito
+> Per ogni esame contribuisci con una tua eventuale proposta di soluzione o soluzione ufficiale nell'apposita e relativa pagina di discussione, farlo ti permetterà anche di ricevere eventuali feedback da altri studenti e studentesse in merito
 
 | Nome | Discussione |
 |------|-------|
@@ -36,7 +36,7 @@ Lo scopo di questo repository GitHub è proporre e discutere insieme possibili s
 
 ## Progetti
 > [!NOTE]
-> Per ogni esame contribuisci con una tua eventuale proposta di soluzione o soluzione ufficiale nell'apposita relativa pagina di discussione, farlo ti permetterà anche di ricevere eventuali feedback da altri studenti e studentesse in merito
+> Per ogni progetto contribuisci con una tua eventuale proposta di soluzione o soluzione ufficiale nell'apposita e relativa pagina di discussione, farlo ti permetterà anche di ricevere eventuali feedback da altri studenti e studentesse in merito
 
 | Nome | Discussione |
 |------|-------|
