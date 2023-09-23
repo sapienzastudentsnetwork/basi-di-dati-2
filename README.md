@@ -12,6 +12,7 @@ Lo scopo di questo repository GitHub è proporre e discutere insieme possibili s
 
 | Nome | Discussione |
 |------|-------|
+| CozyRooms | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/47) |
 | VirgilioGo | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/44) |
 | Poolio | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/43) |
 | AllenaMondo | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/34) |
