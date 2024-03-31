@@ -16,6 +16,9 @@ Lo scopo di questo repository GitHub è proporre e discutere insieme possibili s
 
 | Nome | Discussione |
 |------|-------|
+| Deli | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/51) |
+| DKL-Cloud | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/50) |
+| Atletissimo | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/49) |
 | CozyRooms | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/47) |
 | VirgilioGo | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/44) |
 | Poolio | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/43) |
