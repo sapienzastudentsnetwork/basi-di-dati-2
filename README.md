@@ -1,14 +1,18 @@
 <p align="center">
-  <h1 align="center">Basi di Dati II [A.A. 2022-2023]</h1>
+  <h1 align="center">Basi di Dati II</h1>
 </p>
 <div align="center">
 
 ## Introduzione
-Lo scopo di questo repository GitHub è proporre e discutere insieme possibili soluzioni e/o approcci risolutivi alle tracce d'esame e progetti, forniti dai professori di Basi di Dati II del canale A/L fino all'anno accademico 2022-2023 _(che è stato a canale unico; da qui l'interesse per anche gli studenti degli altri canali)_, per cui non sono attualmente disponibili delle soluzioni ufficiali. In questo repository potrai dunque trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!
+Lo scopo di questo repository GitHub è proporre e discutere insieme possibili soluzioni e/o approcci risolutivi alle tracce d'esame e progetti, forniti dai professori del corso di Basi di Dati II tenuto dal prof. Mancini _(durante l'A.A. 2023-2024 tuttora a canale unico)_, per cui non sono attualmente disponibili delle soluzioni ufficiali. In questo repository potrai dunque trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!!
 
 ## Esami
+</div>
+
 > [!NOTE]
 > Per ogni esame contribuisci con una tua eventuale proposta di soluzione o consulta e dai un feedback in merito a quelle condivise da altri studenti e studentesse nell'apposita e relativa pagina di discussione
+
+<div align="center">
 
 | Nome | Discussione |
 |------|-------|
@@ -36,8 +40,12 @@ Lo scopo di questo repository GitHub è proporre e discutere insieme possibili s
 | EDC-Manager | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/35) |
 
 ## Progetti
+</div>
+
 > [!NOTE]
 > Per ogni progetto contribuisci con una tua eventuale proposta di soluzione o consulta e dai un feedback in merito a quelle condivise da altri studenti e studentesse nell'apposita e relativa pagina di discussione
+
+<div align="center">
 
 | Nome | Discussione |
 |------|-------|
@@ -48,3 +56,5 @@ Lo scopo di questo repository GitHub è proporre e discutere insieme possibili s
 | [CoLab](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220610%20-%20CoLab) | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/31) |
 | [My Precious](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220909%20-%20My%20Precious) | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/32) |
 | [Citta Verde](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220701%20-%20Citt%C3%A0%20Verde) | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/27) |
+
+</div>
