@@ -4,13 +4,13 @@
 <div align="center">
 
 ## Introduzione
-Lo scopo di questo repository GitHub è proporre e discutere insieme possibili soluzioni e/o approcci risolutivi alle tracce d'esame e progetti, forniti dai professori del corso di Basi di Dati II tenuto dal prof. Mancini _(durante l'A.A. 2023-2024 tuttora a canale unico)_, per cui non sono attualmente disponibili delle soluzioni ufficiali. In questo repository potrai dunque trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!!
+Lo scopo di questo repository GitHub è proporre e discutere insieme possibili soluzioni e/o approcci risolutivi alle [tracce d'esame](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/categories/esami) e [progetti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/categories/progetti), forniti dai professori del corso di Basi di Dati II tenuto dal prof. Mancini _(durante l'A.A. 2023-2024 tuttora a canale unico)_, per cui non sono attualmente disponibili delle soluzioni ufficiali. In questo repository potrai dunque trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!
 
 ## Esami
 </div>
 
 > [!NOTE]
-> Per ogni esame contribuisci con una tua eventuale proposta di soluzione o consulta e dai un feedback in merito a quelle condivise da altri studenti e studentesse nell'apposita e relativa pagina di discussione
+> Per ogni esame contribuisci, nell'apposita e relativa pagina di discussione, con una tua eventuale proposta di soluzione, o consulta e dai un feedback in merito a quelle condivise da altri studenti e studentesse
 
 <div align="center">
 
@@ -46,7 +46,7 @@ Lo scopo di questo repository GitHub è proporre e discutere insieme possibili s
 </div>
 
 > [!NOTE]
-> Per ogni progetto contribuisci con una tua eventuale proposta di soluzione o consulta e dai un feedback in merito a quelle condivise da altri studenti e studentesse nell'apposita e relativa pagina di discussione
+> Per ogni progetto contribuisci, nell'apposita e relativa pagina di discussione, con una tua eventuale proposta di soluzione, o consulta e dai un feedback in merito a quelle condivise da altri studenti e studentesse
 
 <div align="center">
 
