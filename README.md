@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Basi di Dati II</h1>
+  <h1 align="center">Basi di Dati - II modulo</h1>
 </p>
 <div align="center">
 
