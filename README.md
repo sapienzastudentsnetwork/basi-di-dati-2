@@ -16,31 +16,32 @@ Lo scopo di questo repository GitHub è proporre e discutere insieme possibili s
 
 | Nome | Discussione |
 |------|-------|
-| Deli | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/51) |
-| DKL-Cloud | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/50) |
-| Atletissimo | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/49) |
-| CozyRooms | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/47) |
-| VirgilioGo | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/44) |
-| Poolio | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/43) |
-| AllenaMondo | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/34) |
-| Slimmy | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/33) |
-| EasyToll | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/42) |
-| MyPrecious | [Discuti progetto](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/32) |
-| CoLab | [Discuti progetto](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/31) |
-| StayHealthy! | [Discuti Slimmy](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/33) |
-| RistoBook | [Discuti progetto](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/46) |
-| SafeOnTheBeach | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/45) |
-| GreenCare | [Discuti progetto](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/27) |
-| TravelPlan | [Discuti progetto](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/30) |
-| Alimentary | [Discuti Slimmy](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/33) |
-| Workouts | [Discuti AllenaMondo](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/34) |
-| iCare | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/41) |
-| Mall.com | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/40) |
-| House.com | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/39) |
-| ecoParks.it | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/38) |
-| myTunes | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/37) |
-| iHealth | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/36) |
-| EDC-Manager | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/35) |
+| iHelp | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/53) |
+| Deli | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/51) |
+| DKL-Cloud | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/50) |
+| Atletissimo | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/49) |
+| CozyRooms | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/47) |
+| VirgilioGo | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/44) |
+| Poolio | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/43) |
+| AllenaMondo | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/34) |
+| Slimmy | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/33) |
+| EasyToll | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/42) |
+| MyPrecious | [Discuti progetto](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/32) |
+| CoLab | [Discuti progetto](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/31) |
+| StayHealthy! | [Discuti Slimmy](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/33) |
+| RistoBook | [Discuti progetto](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/46) |
+| SafeOnTheBeach | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/45) |
+| GreenCare | [Discuti progetto](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/27) |
+| TravelPlan | [Discuti progetto](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/30) |
+| Alimentary | [Discuti Slimmy](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/33) |
+| Workouts | [Discuti AllenaMondo](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/34) |
+| iCare | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/41) |
+| Mall.com | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/40) |
+| House.com | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/39) |
+| ecoParks.it | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/38) |
+| myTunes | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/37) |
+| iHealth | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/36) |
+| EDC-Manager | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/35) |
 
 ## Progetti
 </div>
@@ -52,12 +53,12 @@ Lo scopo di questo repository GitHub è proporre e discutere insieme possibili s
 
 | Nome | Discussione |
 |------|-------|
-| [RistoBook](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220506%20-%20RistoBook) | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/46) |
-| [smart2go](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20170606%20-%20smart2go) | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/28) |
-| [Stoxx](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20160519%20-%20Stoxx) | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/29) |
-| [TravelPlan](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220608%20-%20TravelPlan) | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/30) |
-| [CoLab](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220610%20-%20CoLab) | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/31) |
-| [My Precious](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220909%20-%20My%20Precious) | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/32) |
-| [Citta Verde](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220701%20-%20Citt%C3%A0%20Verde) | [Discuti](https://github.com/sapienzastudentsnetwork/bdii2223/discussions/27) |
+| [RistoBook](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220506%20-%20RistoBook) | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/46) |
+| [smart2go](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20170606%20-%20smart2go) | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/28) |
+| [Stoxx](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20160519%20-%20Stoxx) | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/29) |
+| [TravelPlan](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220608%20-%20TravelPlan) | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/30) |
+| [CoLab](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220610%20-%20CoLab) | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/31) |
+| [My Precious](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220909%20-%20My%20Precious) | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/32) |
+| [Citta Verde](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220701%20-%20Citt%C3%A0%20Verde) | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/27) |
 
 </div>
