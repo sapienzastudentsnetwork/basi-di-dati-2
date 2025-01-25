@@ -53,12 +53,12 @@ Lo scopo di questo repository GitHub è proporre e discutere insieme possibili s
 
 | Nome | Discussione |
 |------|-------|
-| [RistoBook](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220506%20-%20RistoBook) | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/46) |
-| [smart2go](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20170606%20-%20smart2go) | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/28) |
-| [Stoxx](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20160519%20-%20Stoxx) | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/29) |
-| [TravelPlan](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220608%20-%20TravelPlan) | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/30) |
-| [CoLab](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220610%20-%20CoLab) | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/31) |
-| [My Precious](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220909%20-%20My%20Precious) | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/32) |
-| [Citta Verde](http://tmancini.di.uniroma1.it/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220701%20-%20Citt%C3%A0%20Verde) | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/27) |
+| [RistoBook](https://raise.uniroma1.it/tmancini/website/old/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220506%20-%20RistoBook) | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/46) |
+| [smart2go](https://raise.uniroma1.it/tmancini/website/old/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20170606%20-%20smart2go) | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/28) |
+| [Stoxx](https://raise.uniroma1.it/tmancini/website/old/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20160519%20-%20Stoxx) | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/29) |
+| [TravelPlan](https://raise.uniroma1.it/tmancini/website/old/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220608%20-%20TravelPlan) | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/30) |
+| [CoLab](https://raise.uniroma1.it/tmancini/website/old/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220610%20-%20CoLab) | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/31) |
+| [My Precious](https://raise.uniroma1.it/tmancini/website/old/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220909%20-%20My%20Precious) | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/32) |
+| [Citta Verde](https://raise.uniroma1.it/tmancini/website/old/index.php?page=teaching.bd2.materiale&folder=/Progetti/P.20220701%20-%20Citt%C3%A0%20Verde) | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/27) |
 
 </div>
