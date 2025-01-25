@@ -16,6 +16,7 @@ Lo scopo di questo repository GitHub è proporre e discutere insieme possibili s
 
 | Nome | Discussione |
 |------|-------|
+| e-Noodle | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/56) |
 | HiWays | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/55) |
 | NoleggiAmico | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/54) |
 | iHelp | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/53) |
