@@ -16,6 +16,8 @@ Lo scopo di questo repository GitHub è proporre e discutere insieme possibili s
 
 | Nome | Discussione |
 |------|-------|
+| HiWays | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/55) |
+| NoleggiAmico | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/54) |
 | iHelp | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/53) |
 | Deli | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/51) |
 | DKL-Cloud | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/50) |
