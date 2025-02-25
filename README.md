@@ -4,7 +4,11 @@
 <div align="center">
 
 ## Introduzione
-Lo scopo di questo repository GitHub è proporre e discutere insieme possibili soluzioni e/o approcci risolutivi alle [tracce d'esame](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/categories/esami) e [progetti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/categories/progetti), forniti dai professori del corso di Basi di Dati II tenuto dal prof. Mancini _(durante l'A.A. 2023-2024 tuttora a canale unico)_, per cui non sono attualmente disponibili delle soluzioni ufficiali. In questo repository potrai dunque trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!
+Lo scopo di questo repository GitHub è proporre e discutere insieme possibili soluzioni e/o approcci risolutivi alle [tracce d'esame](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/categories/esami) e [progetti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/categories/progetti) assegnati dai professori dell'insegnamento di Basi di Dati II, presso il Corso di Laurea Triennale in Informatica di Sapienza Università di Roma, per cui non sono attualmente disponibili delle soluzioni ufficiali. In questo repository potrai dunque trovare (e possibilmente confermare) soluzioni proposte da altri studenti e studentesse o anche condividere e ricevere un feedback in merito alle tue!
+
+## Indice
+
+[Esami](#esami) | [Progetti](#progetti)
 
 ## Esami
 </div>
