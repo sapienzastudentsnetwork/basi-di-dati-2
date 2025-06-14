@@ -60,12 +60,12 @@ Lo scopo di questo repository GitHub è proporre e discutere insieme possibili s
 
 | Nome | Discussione |
 |------|-------|
-| RistoBook | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/46) |
-| smart2go | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/28) |
-| Stoxx | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/29) |
-| TravelPlan | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/30) |
-| CoLab | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/31) |
-| My Precious | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/32) |
-| Citta Verde | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/27) |
+| (08) RistoBook | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/46) |
+| (09) TravelPlan | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/30) |
+| (10) smart2go | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/28) |
+| (12) Stoxx | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/29) |
+| (13) CoLab | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/31) |
+| (14) Citta Verde | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/27) |
+| (15) My Precious | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/32) |
 
 </div>
