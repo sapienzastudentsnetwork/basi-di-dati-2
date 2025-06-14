@@ -18,7 +18,7 @@ In questo repository puoi quindi esplorare soluzioni proposte da altri studenti 
 </div>
 
 > [!NOTE]
-> Per ogni progetto, partecipa alla relativa pagina di discussione condividendo una tua proposta di soluzione per poi consultare e/o commentare quelle condivise da altri studenti e studentesse.
+> Per ogni traccia d'esame, partecipa alla relativa pagina di discussione condividendo una tua proposta di soluzione per poi consultare e/o commentare quelle condivise da altri studenti e studentesse.
 
 <div align="center">
 
