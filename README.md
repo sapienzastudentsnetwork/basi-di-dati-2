@@ -53,7 +53,7 @@ In questo repository puoi quindi esplorare soluzioni proposte da altri studenti 
 | Nome | Discussione |
 |------|-------|
 | BookMaster | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/67) |
-| 28/03/2025 | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/66) |
+| WizardAir | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/66) |
 | Vendify | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/65) |
 | e-Noodle | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/56) |
 | HiWays | [Discuti](https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/55) |
