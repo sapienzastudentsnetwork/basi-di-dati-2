@@ -217,10 +217,10 @@ In questo repository puoi quindi esplorare soluzioni proposte da altri studenti 
           <td align="center"> 7 Gennaio </td>
         </tr>
         <tr>
-          <td align="center"> 3 Febbraio </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/72"> 3 Febbraio </a> </td>
         </tr>
         <tr>
-          <td align="center"> ?? Aprile </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/73"> 10 Aprile </a> </td>
         </tr>
         <tr>
           <td align="center"> 15 Giugno </td>
