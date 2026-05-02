@@ -10,6 +10,9 @@ Trattandosi di una materia a forte componente progettuale, **non esiste una sola
 
 In questo repository puoi quindi esplorare soluzioni proposte da altri studenti e studentesse, discuterle, offrire spunti di miglioramento, oppure proporre le tue e ricevere feedback dalla community!
 
+> [!Warning]
+> Questo forum è gestito e contribuito da studenti e, in quanto tale, non è ufficiale e non sostituisce né intende sostituire le fonti ufficiali!
+
 <div align="center">
 
 <table>
