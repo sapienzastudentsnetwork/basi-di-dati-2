@@ -232,7 +232,7 @@ In questo repository puoi quindi esplorare soluzioni proposte da altri studenti 
           <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/75"> 13 Luglio </a> </td>
         </tr>
         <tr>
-          <td align="center"> 10 Settembre </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/76"> 10 Settembre </a> </td>
         </tr>
         <tr>
           <td align="center"> --- </td>
